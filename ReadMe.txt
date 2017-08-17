@@ -32,3 +32,6 @@ OpenHardwareMonitor.Utilities.TemperatureMonitor works:
 
 Note that the constructor of OpenHardwareMonitor.Utilities.TemperatureMonitor is timeconsuming
 (i.e. make sure you reuse the same object instead of creating new ones every time).
+
+Also note that you may need to run the application as administrator to access CPU temperatures.
+
